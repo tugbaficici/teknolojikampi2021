@@ -24,3 +24,11 @@ Bir linux sunucu üzerinde çalıştırılacak python scripti (yapabilen bash de
 -  bash 
   -  dpkg komutu
   -  apt komutu
+
+## Ekran Görüntüleri
+- Genel Sorgu Fonksiyonu <br>
+![Alt Text](https://github.com/tugbaficici/teknolojikampi2021/blob/main/ss/genel.png?raw=true)
+- Paket Sorgu Fonksiyonu <br>
+![Alt Text](https://github.com/tugbaficici/teknolojikampi2021/blob/main/ss/paket1.png?raw=true)
+![Alt Text](https://github.com/tugbaficici/teknolojikampi2021/blob/main/ss/paket2.png?raw=true)
+
